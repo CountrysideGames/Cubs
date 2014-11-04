@@ -1,0 +1,177 @@
+System:
+  OS: Windows 7 Service Pack 1 (6.1.7601) 64bit
+  CPU: Intel(R) Core(TM) i7-3612QM CPU @ 2.10GHz, count: 8
+  Physical RAM: 8068 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Intel(R) HD Graphics 4000
+  VendorID: 8086
+  Driver: aticfx32.dll 8.17.10.1119
+  VRAM: 2085 (via DXGI)
+
+OpenGL:
+  Version: 3.3.0 - Build 8.15.10.2696
+  Vendor: Intel
+  Renderer: Intel(R) HD Graphics 4000
+  VRAM: 2085 (via DXGI)
+  Extensions: GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_blend_color GL_EXT_abgr GL_EXT_texture3D GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_SGIS_texture_edge_clamp GL_SGIS_generate_mipmap GL_EXT_draw_range_elements GL_SGIS_texture_lod GL_EXT_rescale_normal GL_EXT_packed_pixels GL_EXT_texture_edge_clamp GL_EXT_separate_specular_color GL_ARB_multitexture GL_EXT_texture_env_combine GL_EXT_bgra GL_EXT_blend_func_separate GL_EXT_secondary_color GL_EXT_fog_coord GL_EXT_texture_env_add GL_ARB_texture_cube_map GL_ARB_transpose_matrix GL_ARB_texture_env_add GL_IBM_texture_mirrored_repeat GL_EXT_multi_draw_arrays GL_NV_blend_square GL_ARB_texture_compression GL_3DFX_texture_compression_FXT1 GL_EXT_texture_filter_anisotropic GL_ARB_texture_border_clamp GL_ARB_point_parameters GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_texture_env_crossbar GL_EXT_texture_compression_s3tc GL_ARB_shadow GL_ARB_window_pos GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_ARB_vertex_program GL_EXT_texture_rectangle GL_ARB_fragment_program GL_EXT_stencil_two_side GL_ATI_separate_stencil GL_ARB_vertex_buffer_object GL_EXT_texture_lod_bias GL_ARB_occlusion_query GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_texture_non_power_of_two GL_ARB_vertex_shader GL_NV_texgen_reflection GL_ARB_point_sprite GL_ARB_fragment_program_shadow GL_EXT_blend_equation_separate GL_ARB_depth_texture GL_ARB_texture_rectangle GL_ARB_draw_buffers GL_ARB_color_buffer_float GL_ARB_half_float_pixel GL_ARB_texture_float GL_ARB_pixel_buffer_object GL_EXT_framebuffer_object GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_occlusion_query2 GL_EXT_draw_buffers2 GL_WIN_swap_hint GL_EXT_texture_sRGB GL_ARB_multisample GL_EXT_packed_float GL_EXT_texture_shared_exponent GL_ARB_texture_rg GL_ARB_texture_compression_rgtc GL_NV_conditional_render GL_EXT_texture_swizzle GL_ARB_sync GL_ARB_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_ARB_depth_buffer_float GL_EXT_transform_feedback GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_ARB_framebuffer_object GL_EXT_texture_array GL_EXT_texture_integer GL_ARB_map_buffer_range GL_EXT_texture_snorm GL_ARB_blend_func_extended GL_INTEL_performance_queries GL_ARB_copy_buffer GL_ARB_sampler_objects GL_NV_primitive_restart GL_ARB_seamless_cube_map GL_ARB_uniform_buffer_object GL_ARB_depth_clamp GL_ARB_vertex_array_bgra GL_ARB_shader_bit_encoding GL_ARB_draw_buffers_blend GL_ARB_geometry_shader4 GL_ARB_texture_query_lod GL_ARB_explicit_attrib_location GL_ARB_draw_elements_base_vertex GL_ARB_instanced_arrays GL_ARB_fragment_coord_conventions GL_EXT_gpu_program_parameters GL_ARB_texture_buffer_object_rgb32 GL_ARB_compatibility GL_ARB_texture_rgb10_a2ui GL_ARB_texture_multisample GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_timer_query GL_ARB_vertex_array_object GL_ARB_provoking_vertex 
+
+User locale: pt-BR
+System locale: pt-BR
+
+Running processes:
+hamachi-2-ui.exe (3532)
+    path: C:\Program Files (x86)\LogMeIn Hamachi\hamachi-2-ui.exe
+    company:  LogMeIn Inc.
+    product:  Hamachi Client
+    filedesc: Hamachi Client Application
+    filever:  2.2.0.258
+    prodver:  2.0.0.0
+StageRemote.exe (4248)
+    path: C:\Program Files (x86)\Dell\Stage Remote\StageRemote.exe
+    company:  
+    product:  Stage Remote Manager
+    filedesc: Stage Remote Manager
+    filever:  2.0.0.43
+    prodver:  2.0.0.43
+iCloudServices.exe (4776)
+    path: C:\Program Files (x86)\Common Files\Apple\Internet Services\iCloudServices.exe
+    company:  Apple Inc.
+    product:  iCloud
+    filedesc: iCloud
+    filever:  3.2.22.1
+    prodver:  0.0.0.0
+ApplePhotoStreams.exe (4804)
+    path: C:\Program Files (x86)\Common Files\Apple\Internet Services\ApplePhotoStreams.exe
+    company:  Apple Inc.
+    product:  iCloud Control Panel
+    filedesc: iCloud Photos
+    filever:  7.15.7.3
+    prodver:  0.0.0.0
+iCloudDrive.exe (4884)
+    path: C:\Program Files (x86)\Common Files\Apple\Internet Services\iCloudDrive.exe
+    company:  Apple Inc.
+    product:  iCloud
+    filedesc: iCloud Drive
+    filever:  1.2.30.1
+    prodver:  4.0.0.0
+googledrivesync.exe (4900)
+    path: C:\Program Files (x86)\Google\Drive\googledrivesync.exe
+    company:  Google
+    product:  Google Drive
+    filedesc: Google Drive
+    filever:  1.17.7290.4094
+    prodver:  1.17.7290.4094
+SkyDrive.exe (4940)
+    path: C:\Users\Marcelo\AppData\Local\Microsoft\SkyDrive\SkyDrive.exe
+    company:  Microsoft Corporation
+    product:  Microsoft OneDrive
+    filedesc: Microsoft OneDrive
+    filever:  17.3.1229.918
+    prodver:  17.3.1229.918
+ddm.exe (5024)
+    path: C:\Program Files (x86)\Dell\Dell Display Manager\ddm.exe
+    company:  EnTech Taiwan
+    product:  Dell Display Manager
+    filedesc: Dell Display Manager
+    filever:  1.21.0.1500
+    prodver:  1.21.0.1500
+StageRemoteService.exe (4124)
+    path: C:\Program Files (x86)\Dell\Stage Remote\StageRemoteService.exe
+    company:  
+    product:  Stage Remote Service
+    filedesc: Stage Remote Service
+    filever:  1.0.0.43
+    prodver:  1.0.0.43
+iusb3mon.exe (3500)
+    path: C:\Program Files (x86)\Intel\Intel(R) USB 3.0 eXtensible Host Controller Driver\Application\iusb3mon.exe
+    company:  Intel Corporation
+    product:  Intel(R) USB 3.0 Monitor
+    filedesc: Intel(R) USB 3.0 Monitor
+    filever:  1.0.7.248
+    prodver:  1.0.7.248
+PDVD9Serv.exe (4176)
+    path: C:\Program Files (x86)\Cyberlink\PowerDVD9\PDVD9Serv.exe
+    company:  CyberLink Corp.
+    product:  PowerDVD RC Service
+    filedesc: PowerDVD RC Service
+    filever:  9.0.3401.0
+    prodver:  9.0.3401.0
+Dropbox.exe (4112)
+    path: C:\Users\Marcelo\AppData\Roaming\Dropbox\bin\Dropbox.exe
+    company:  Dropbox, Inc.
+    product:  Dropbox
+    filedesc: Dropbox
+    filever:  2.10.30.0
+    prodver:  1.0.0.1
+APSDaemon.exe (5296)
+    path: C:\Program Files (x86)\Common Files\Apple\Apple Application Support\APSDaemon.exe
+    company:  Apple Inc.
+    product:  Apple Push
+    filedesc: Apple Push
+    filever:  2.4.3.36
+    prodver:  0.0.0.0
+WebcamDell2.exe (5380)
+    path: C:\Program Files (x86)\Dell Webcam\Dell Webcam Central\WebcamDell2.exe
+    company:  Creative Technology Ltd
+    product:  Webcam Central
+    filedesc: Webcam Central
+    filever:  1.1.18.0
+    prodver:  2.0.0.0
+iTunesHelper.exe (5456)
+    path: C:\Program Files (x86)\iTunes\iTunesHelper.exe
+    company:  Apple Inc.
+    product:  iTunes
+    filedesc: iTunesHelper
+    filever:  12.0.1.26
+    prodver:  12.0.1.26
+googledrivesync.exe (6228)
+    path: C:\Program Files (x86)\Google\Drive\googledrivesync.exe
+    company:  Google
+    product:  Google Drive
+    filedesc: Google Drive
+    filever:  1.17.7290.4094
+    prodver:  1.17.7290.4094
+IAStorIcon.exe (7136)
+    path: C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+    company:  Intel Corporation
+    product:  IAStorIcon
+    filedesc: IAStorIcon
+    filever:  12.8.2.1000
+    prodver:  12.8.2.1000
+GitHub.exe (1372)
+    path: C:\Users\Marcelo\AppData\Local\Apps\2.0\R8L5MZKA.6EY\4TBYNGJ3.0EA\gith..tion_317444273a93ac29_0002.0005_0085fbbc397dd054\GitHub.exe
+    company:  GitHub, Inc.
+    product:  GitHub for Windows
+    filedesc: GitHub
+    filever:  2.5.1.1
+    prodver:  2.5.1.1
+adb.exe (7536)
+    path: E:\adt-bundle-windows-x86_64-20140321\sdk\platform-tools\adb.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+ssh-agent.exe (7844)
+    path: C:\Users\Marcelo\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\ssh-agent.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+MonoDevelop.exe (8440)
+    path: C:\Program Files (x86)\Unity\MonoDevelop\bin\MonoDevelop.exe
+    company:  
+    product:  MonoDevelop
+    filedesc: MonoDevelop
+    filever:  2.6.0.0
+    prodver:  2.6.0.0
+UnityBugReporter.exe (7836)
+    path: C:\Program Files (x86)\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.5.5.37569
+    prodver:  4.5.5.37569
